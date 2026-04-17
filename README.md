@@ -35,15 +35,10 @@ Dacă dorești să testezi aplicația pe calculatorul tău, urmează acești pa�
 1. Clonează repository-ul:
    ```bash
    git clone [https://github.com/andreip19/react-expense-tracker.git](https://github.com/andreip19/react-expense-tracker.git)
-Navighează în folderul proiectului:
-
-
+2.Navighează în folderul proiectului:
 cd react-expense-tracker
-Instalează dependențele necesare:
-
+3.Instalează dependențele necesare:
 npm install
-Pornește serverul local de dezvoltare:
-
-
+4.Pornește serverul local de dezvoltare:
 npm run dev
-Deschide browserul la adresa http://localhost:5173/.
+5.Deschide browserul la adresa http://localhost:5173/.
