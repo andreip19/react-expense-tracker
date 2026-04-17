@@ -25,7 +25,7 @@ O aplicație interactivă pentru gestionarea cheltuielilor și veniturilor, dezv
 ---
 
 ## 📸 Previziualizare (Screenshot)
-*(Înlocuiește textul acesta cu o imagine reală a aplicației tale, la fel cum ai făcut la Movie Recommender)*
+app.jpg
 ---
 
 ## 🚀 Cum să rulezi proiectul local
