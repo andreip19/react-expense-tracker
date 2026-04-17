@@ -25,7 +25,7 @@ O aplicație interactivă pentru gestionarea cheltuielilor și veniturilor, dezv
 ---
 
 ## 📸 Previziualizare (Screenshot)
-(app.jpg)
+![Expense Tracker Screenshot](app.jpg)
 ---
 
 ## 🚀 Cum să rulezi proiectul local
